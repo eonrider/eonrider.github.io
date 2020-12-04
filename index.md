@@ -1,9 +1,9 @@
 # Welcome to my website!
 
 ## Who I am
-I work as a software engineer professionally in Sydney, Australia. I have been in the role since 2016. If anyone cares, I have a [Linkedin profile](https://www.linkedin.com/in/kennyqin), not that I use it for anything really.
+I work as a software engineer professionally in Sydney, Australia. I have been in the role since 2016. If anyone cares, I have a [Linkedin profile](https://www.linkedin.com/in/kennyqin); not that I use it for anything really.
 
-I am an enthusiast of digital privacy and security. I have considered being more involved in this space publically but I have not yet done so. Look out for that in 2021!
+I am an enthusiast of digital privacy and security. I have considered being more involved in this space publically but I have not yet done so. Look out for that in 2021! (I have already annoyed all my close friends already about the importance of ***x*** or ***y*** or ***z*** ~and I crave to do it to many more people~.)
 
 ## Interests
 
