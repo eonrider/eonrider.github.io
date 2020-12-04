@@ -1,7 +1,7 @@
 # Welcome to my website!
 
 ## Who I am
-I work as a software engineer professionally in Sydney, Australia. If anyone cares, I have a [Linkedin profile](https://www.linkedin.com/in/kennyqin); not that I use it for anything really.
+I work as a software engineer professionally in Sydney, Australia. I have a [Linkedin profile](https://www.linkedin.com/in/kennyqin); not that I use it at all really.
 
 I am an enthusiast of digital privacy and security. I have considered being more involved in this space publically but I have not yet done so. Look out for that in 2021! (I have already annoyed all my close friends already about the importance of *x* or *y* or *z* ~~and I crave to do it to many more people~~.)
 
@@ -48,7 +48,7 @@ Additional:
 * Enable [two-factor authentication](https://twofactorauth.org/) for at least your important accounts. This is absolutely critical for your e-mail service and your password manager. For the average person this will be an implementation of [TOTP](https://tools.ietf.org/html/rfc6238). Many services like to treat Google Authenticator as the only option. While Google Authenticator is [probably fine](https://reports.exodus-privacy.eu.org/en/reports/com.google.android.apps.authenticator2/latest/), I recommend the open source [andOTP for Android users](https://github.com/andOTP/andOTP) ([report](https://reports.exodus-privacy.eu.org/en/reports/org.shadowice.flocke.andotp/latest/) for comparison) or [Tofu for iOS users](https://www.tofuauth.com/) (sorry, no report for you).
 
 ### 🤨 Social norms
-In many western countries, children are brought up with the concept of critical thinking. Why then, are so many people judgemental as soon as you go against a social norm? I feel that it's important to spend some amount of time thinking about what makes sense and the aftermath of going against what others blindly **do**.
+In many western countries, children are brought up with the concept of critical thinking. Why, then, are so many people judgemental as soon as you go against a social norm? I feel that it's important to spend some amount of time thinking about what makes sense and the aftermath of going against what others blindly **do**.
 
 It's not *wrong* to eat ice cream for breakfast if someone is in the mood to do so or a Sausage and Egg McMuffin for dinner if they please. I feel that saying *bless you* when someone sneezes is extremely archaic and unnecessary. I agree with Richard Stallman when he says that [there is an absurd amount of social pressure on men to wear a tie as a way of sucking up to the company](https://stallman.org/rms-lifestyle.html). Many people make their beds even though there are objectively [reasons not to](https://www.lifehack.org/317021/scientists-tell-you-why-making-your-bed-disgusting-and-bad-for-your-health). (Some people say they do it as it gives them an immediate sense of accomplishment. In that case, more power to them.)
 
