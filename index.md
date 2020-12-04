@@ -14,7 +14,7 @@ I am an enthusiast of digital privacy and security. I have considered being more
 ## My thoughts on some topics
 
 ### Big Tech
-I am wary of the power *Big Tech* has in our lives and their place in surveillance. I used to use Google, Microsoft and Facebook products without a second thought just like the average consumer.
+I am wary of the power *Big Tech* has in our lives and their place in mass surveillance. I used to use Google, Microsoft and Facebook products without a second thought just like the average consumer.
 
 I now barely use any Google services directly. Some of the Google products I still use, I access through software that act as proxies. I use a de-Googled phone. I use [Fedora](https://getfedora.org/) on my daily driver with a debloated installation of Windows 10 on my gaming desktop. ([ProtonDB](https://www.protondb.com/) is an awesome project by Valve which will hopefully bring freedom to all the gamers dependent on Windows. Also, yes... [DRM](https://www.fckdrm.com/)...) I have deleted my Facebook account and no longer use WhatsApp. I keep in contact with all the important people in my life through [Signal](https://signal.org/). (The people who truly value you will follow you.)
 
