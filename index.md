@@ -6,10 +6,21 @@ I work as a software engineer professionally in Sydney, Australia. I have been i
 I am an enthusiast of digital privacy and security. I have considered being more involved in this space publically but I have not yet done so. Look out for that in 2021!
 
 ## Interests
-* Standards - I believe in the value of interoperability and standards have a big role in that. I use the term very loosely. Some *standards* I care about greatly include grammar in spoken and written languages and coding standards.
-* Ecology - I'm not an expert but I'm becoming increasingly observant of the impact I, as an individual, and the human species as a whole have on the world.
-* Minimalism - Due to my interests in digital privacy and ecology, I practice minimalism in both digital and non-digital spaces.
-* Running - I only really run casually. I'm not bad though!
+
+### Standards
+I believe in the value of interoperability and standards have a big role in that. I use the term very loosely. Some *standards* I care about greatly include grammar in spoken and written languages and coding standards.
+
+### Ecology
+I'm not an expert but I'm becoming increasingly observant of the impact I, as an individual, and the human species as a whole have on the world. I'm much more considerate of how the food on my plate gets there. I stick to drinking water so that I reduce the amount of single-use waste that comes from consuming alternatives. I know my individual actions are insignificant in the grand scheme of things. I may look into joining a movement on climate change in the future.
+
+### Minimalism
+Due to my interests in digital privacy and ecology, I practice minimalism in both digital and non-digital spaces.
+
+### Running
+I only really run casually. I'm not bad though! At my best, I've run a long distance at a sub-5:00 minute pace.
+
+### Free and open source software (FOSS)
+It was only once I went down the privacy rabbit hole that I truly started appreciating FOSS. FOSS exists as one, if the not the only one, model that gives full transparency of any unwanted behaviour. I believe that any software product that claims to be privacy focused cannot be trusted unless it is FOSS. (Ahem... Apple.)
 
 ## My thoughts on some topics
 
