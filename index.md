@@ -20,5 +20,16 @@ I now barely use any Google services directly. Some of the Google products I sti
 
 Amazon has not really held a big place in my life but I know it does in many others. I am concerned about Amazon's direct role in mass surveillance through their Ring products.
 
+### Basic digital practices absolutely everyone should be using
+The average person in developed countries spends several hours per day exposing themselved in the digital world without having any understanding of the threats posed to them. Admittedly, I used to use the internet with little regard for my privacy and security. The e-mail address I no longer use is associated with 12 compromised accounts according to [HIBP](https://haveibeenpwned.com/)!
+
+To quote [@Snowden](https://nitter.net/Snowden/status/1175433355921436673):
+> I would use an ad blocker. I would use a password manager. I would block
+ third-party cookies in the browser. These last three are steps that 
+absolutely everyone should consider, because they're simple, cost little
+ or nothing, and protect you while making your phone faster.
+ 
+PrivacyTools.io guides has easy-to-follow guide on [browser configuration](https://privacytools.io/browsers/) and recommendations for [password managers](https://privacytools.io/software/passwords/) (I recommend [Bitwarden](https://bitwarden.com/) to all my friends).
+
 ### Social norms
 In many western countries, children are brought up with the concept of critical thinking. Why then, are so many people judgemental as soon as you go against a social norm. I spend a fair amount of time thinking about what makes sense to me and the aftermath of going against what others blindly **do**. I eat ice cream for breakfast if I'm in the mood and a Sausage and Egg McMuffin for dinner if I please. I don't say *bless you* because I believe it be extremely archaic. I'll wear a fancy suit if my employer requires it but fortunately, my current place of employment does not. I don't make my bed because [there is objectively no reason to](https://www.lifehack.org/317021/scientists-tell-you-why-making-your-bed-disgusting-and-bad-for-your-health).
