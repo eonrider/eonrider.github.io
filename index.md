@@ -40,7 +40,7 @@ To quote [@Snowden](https://nitter.net/Snowden/status/1175433355921436673):
 absolutely everyone should consider, because they're simple, cost little
  or nothing, and protect you while making your phone faster.
  
-PrivacyTools.io guides has easy-to-follow guide on [browser configuration](https://privacytools.io/browsers/) and recommendations for [password managers](https://privacytools.io/software/passwords/) (I recommend [Bitwarden](https://bitwarden.com/) to all my friends).
+PrivacyTools.io has an easy-to-follow guide on [browser configuration](https://privacytools.io/browsers/) and recommendations for [password managers](https://privacytools.io/software/passwords/). I recommend [Bitwarden](https://bitwarden.com/) to all my friends.
 
 Additional:
 * Get a mobile number to use specifically for all your important accounts. [SIM swapping attacks](https://en.wikipedia.org/wiki/SIM_swap_scam) occur because every single service in the modern day asks for a mobile number despite not really needing one. This data will eventually be part of a data breach and become part of a digital profile on you in a database somewhere which may be accessed by a malicious actor. Some mobile carriers provide **Pay-As-You-Go** plans which allow you to have access to a number will a minimal cost. In Australia, Amaysim provides [one such service](https://www.amaysim.com.au/plans/mobile-plans/as-you-go/).
