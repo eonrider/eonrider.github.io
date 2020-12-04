@@ -32,7 +32,7 @@ I now barely use any Google services directly. Some of the Google products I sti
 Amazon has not really held a big place in my life but I know it does in many others. I am concerned about Amazon's direct role in mass surveillance through their Ring products.
 
 ### Basic digital practices absolutely everyone should be following
-The average person in developed countries spends several hours per day exposing themselved in the digital world without having any understanding of the threats posed to them. Admittedly, I used to use the internet with little regard for my privacy and security. The e-mail address I no longer use is associated with 12 compromised accounts according to [HIBP](https://haveibeenpwned.com/)!
+The average person in developed countries spends several hours per day exposing themselves in the digital world without having any understanding of the threats posed to them. Admittedly, I used to use the internet with little regard for my privacy and security. The e-mail address I no longer use is associated with 12 compromised accounts according to [HIBP](https://haveibeenpwned.com/)!
 
 To quote [@Snowden](https://nitter.net/Snowden/status/1175433355921436673):
 > I would use an ad blocker. I would use a password manager. I would block
