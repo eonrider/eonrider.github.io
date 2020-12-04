@@ -19,7 +19,7 @@ Due to my interests in digital privacy and ecology, I practice minimalism in bot
 ### 🏃‍♂️ Running
 I only really run casually. I'm not bad though! At my best, I've run a long distance at a sub-5:00 minute pace.
 
-### 👨‍💻 Free and open source software (FOSS)
+### 🙌 Free and open source software (FOSS)
 It was only once I went down the privacy rabbit hole that I truly started appreciating FOSS. FOSS exists as one, if the not the only one, model that gives full transparency of any unwanted behaviour. I believe that any software product that claims to be privacy focused cannot be trusted unless it is FOSS. (Ahem... Apple.)
 
 ## My thoughts on some topics
@@ -52,4 +52,6 @@ In many western countries, children are brought up with the concept of critical 
 ### 🎰 Microtransactions, loot boxes and in-game currencies in video games
 I feel that the video game industry is becoming increasingly predatory with their pricing models. Many of these concepts are relatable to gambling and regulation in many countries has finally been catching up with the industry. Video games which initially seem harmless can burn you overnight without warning. I learnt this in 2015 through the sudden addition of microtransactions in [Payday 2](https://www.reddit.com/r/paydaytheheist/comments/3ow3q5/fuck_you_overkill/) where the passion I had in a single gaming community was destroyed instantly. I respect video game critic [Jim Sterling](https://www.youtube.com/user/JimSterling) who has been calling out poor industry practices for many years now.
 
-Consequently, I practise [patient gaming](https://www.reddit.com/r/patientgamers). The key premise for me is to only emotionally associate myself with a game once the *hype* is gone and the developers/publishers have moved on. Obviously there are some pitfalls in that you will not feel like you are part of *something* and some people have an irrational knee-jerk reaction to anything that isn't the *latest and greatest* so finding others for game with a multiplayer focus can be challenging.
+I find it troubling that many people knowingly subject themselves to video games that follow predatory practices when many games without them are available. Players of these games can have somehow have a semi-intellectual conversation amongst themselves about how they are having fun in a carefully crafty orchestration of manipulation.
+
+Consequently, I practise [patient gaming](https://www.reddit.com/r/patientgamers). The key premise for me is to only emotionally associate myself with a game once the *hype* is gone and the developers/publishers have moved on. By then, it is clear what titles to avoid. Obviously there are some pitfalls in that you will not feel like you are part of *something* and some people have an irrational knee-jerk reaction to anything that isn't the **latest and greatest** so finding others for game with a multiplayer focus can be challenging.
