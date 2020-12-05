@@ -17,7 +17,7 @@ I'm not an expert but I've become increasingly observant of the impact I, as an 
 Due to my interests in digital privacy and ecology, I practice minimalism in both digital and non-digital spaces.
 
 ### 🏃‍♂️ Running
-I only really run casually. I'm not bad though! At my best, I've run a long distance at a sub-5:00 minute pace.
+I only really run casually. I'm not bad though! At my best, I've run a long distance at a sub-5:00 minute pace. I enjoy running as it gives me the freedom to go to places with a carbon footprint close to 0. It gives me moments to think and learn whether that be by listening to an audiobook or podcast or just self-reflection in silence.
 
 ### 🙌 Free and open source software (FOSS)
 It was only once I went down the privacy rabbit hole that I truly started appreciating FOSS. FOSS exists as one, if the not the only one, model that gives full transparency of any unwanted behaviour. I believe that any software product that claims to be privacy focused cannot be trusted unless it is FOSS. (Ahem... Apple.)
