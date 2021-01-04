@@ -25,9 +25,9 @@ It was only once I went down the privacy rabbit hole that I truly started apprec
 ## My thoughts on some topics
 
 ### 📈 Big Tech
-I am wary of the power *Big Tech* has in our lives and their place in mass surveillance. I used to use Google, Microsoft and Facebook products without a second thought just like the average consumer.
+I am wary of the power *Big Tech* has in our lives and their place in mass surveillance and censorship. I used to use Google, Microsoft and Facebook products without a second thought just like the average consumer.
 
-I now barely use any Google services directly. Some of the Google products I still use, I access through software that act as proxies. I use a de-Googled phone. I use [Fedora](https://getfedora.org/) on my daily driver with a debloated installation of Windows 10 for gaming. ([ProtonDB](https://www.protondb.com/) is an awesome project by Valve which will hopefully bring freedom to all the gamers dependent on Windows. Also, yes... [DRM](https://www.fckdrm.com/)...) I have deleted my Facebook account and no longer use WhatsApp. I keep in contact with all the important people in my life through [Signal](https://signal.org/).
+I now barely use any Google services directly. Some of the Google products I still use, I access through software that act as proxies. I use a de-Googled phone. I use [Fedora](https://getfedora.org/) on my daily driver and a debloated installation of Windows 10 for gaming. ([ProtonDB](https://www.protondb.com/) is an awesome project by Valve which will hopefully bring freedom to all the gamers dependent on Windows. Also, yes... [DRM](https://www.fckdrm.com/)...) I have deleted my Facebook account and no longer use WhatsApp. I keep in contact with all the important people in my life through [Signal](https://signal.org/). ([Threema](https://threema.ch/en/) is another messaging tool that I'm a fan of.)
 
 I am concerned about Amazon's direct role in mass surveillance particularly through their Ring products.
 
