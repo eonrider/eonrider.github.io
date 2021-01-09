@@ -31,7 +31,7 @@ I now barely use any Google services directly. Some of the Google products I sti
 
 I am concerned about Amazon's direct role in mass surveillance particularly through their Ring products.
 
-There are several projects out there that act as decentralised alternatives to the centralised behemoths we have today which I'm fascinated by their way of governance. Some examples include [Mastadon](https://joinmastodon.org/) (federated Twitter), [PeerTube](https://joinpeertube.org/) (federated YouTube) and [Matrix](https://matrix.org/) (federated chat not too distant from a platform like Discord).
+There are several projects out there that act as decentralised alternatives to the centralised behemoths we have today which I'm fascinated by through their way of governance. Some examples include [Mastadon](https://joinmastodon.org/) (federated Twitter), [PeerTube](https://joinpeertube.org/) (federated YouTube) and [Matrix](https://matrix.org/) (federated chat not too distant from a platform like Discord).
 
 ### 🔐 Basic Digital Practices Everyone Should be Following
 The average person in developed countries [spends several hours per day exposing themselves in the digital world](https://blog.rescuetime.com/screen-time-stats-2018/) without having any understanding of the threats posed to them. Admittedly, I used to use the internet with little regard for my privacy and security. One e-mail address I no longer use is associated with over 10 compromised accounts according to [HIBP](https://haveibeenpwned.com/)!
