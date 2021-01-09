@@ -3,7 +3,7 @@
 ## Who I am
 I work as a software engineer professionally in Sydney, Australia. I have a [Linkedin profile](https://www.linkedin.com/in/kennyqin); not that I use it at all really.
 
-I am an enthusiast of digital privacy and security. I have considered being more involved in this space publicly but I have not yet done so. Look out for that in 2021! (I have already annoyed all my close friends already about the importance of *x* or *y* or *z* ~~and I crave to do it to many more people~~.)
+I am an advocate of digital privacy and security. I have considered being more involved in this space publicly but I have not yet done so. Look out for that in 2021! (I have already annoyed all my close friends already about the importance of *x* or *y* or *z* ~~and I crave to do it to many more people~~.)
 
 ## Interests
 
@@ -27,9 +27,11 @@ It was only once I went down the privacy rabbit hole that I truly started apprec
 ### 📈 *Big Tech*
 I am wary of the power *Big Tech* has in our lives and their place in mass surveillance and censorship. I used to use Google, Microsoft and Facebook products without a second thought just like the average consumer.
 
-I now barely use any Google services directly. Some of the Google products I still use, I access through software that act as proxies. I use a de-Googled phone. I use [Fedora](https://getfedora.org/) on my daily driver and a debloated installation of Windows 10 for gaming. ([ProtonDB](https://www.protondb.com/) is an awesome project by Valve which will hopefully bring freedom to all the gamers dependent on Windows. Also, yes... [DRM](https://www.fckdrm.com/)...) I have deleted my Facebook account and no longer use WhatsApp. I keep in contact with all the important people in my life through [Signal](https://signal.org/). (I am also a fan of [Threema](https://threema.ch/en/).)
+I now barely use any Google services directly. Some of the Google products I still use, I access through software that act as proxies. I use a de-Googled phone. I use [Fedora](https://getfedora.org/) on my daily driver and a debloated installation of Windows 10 for gaming. ([ProtonDB](https://www.protondb.com/) is an awesome project by Valve which will hopefully bring freedom to all the gamers dependent on Windows. Also, yes... [DRM](https://www.fckdrm.com/)...) I have deleted my Facebook account and no longer use WhatsApp. I keep in contact with all the important people in my life through [Signal](https://signal.org/) and [Threema](https://threema.ch/en/).
 
 I am concerned about Amazon's direct role in mass surveillance particularly through their Ring products.
+
+There are several projects out there that act as decentralised alternatives to the centralised behemoths we have today which I'm fascinated by their way of governance. Some examples include [Mastadon](https://joinmastodon.org/) (federated Twitter), [PeerTube](https://joinpeertube.org/) (federated YouTube) and [Matrix](https://matrix.org/) (federated chat not too distant from a platform like Discord).
 
 ### 🔐 Basic Digital Practices Everyone Should be Following
 The average person in developed countries [spends several hours per day exposing themselves in the digital world](https://blog.rescuetime.com/screen-time-stats-2018/) without having any understanding of the threats posed to them. Admittedly, I used to use the internet with little regard for my privacy and security. One e-mail address I no longer use is associated with over 10 compromised accounts according to [HIBP](https://haveibeenpwned.com/)!
