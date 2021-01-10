@@ -13,7 +13,7 @@ I am an enthusiast of digital privacy and security. I have considered being more
 I believe in the value of interoperability and standards have a big role in that. I use the term very *loosely*. Some standards I care about greatly include grammar in spoken and written languages and coding standards.
 
 ### 🌏 Ecology
-I'm not an expert but I've become increasingly observant of the impact I, as an individual and the human species as a whole, have on the world. I'm much more considerate of how the food on my plate gets there. I stick to drinking water so that I reduce the amount of single-use waste that comes from consuming alternatives. I know my individual actions are insignificant in the grand scheme of things. I may look into joining a movement on climate change in the future.
+I'm not an expert but I've become increasingly observant of the impact I, as an individual and the human species as a whole, have on the world. I'm much more considerate of how the food on my plate gets there. I stick to drinking water so that I reduce the amount of single-use waste that comes from consuming alternatives. I know my individual actions are insignificant in the grand scheme of things. I have my eyes on some volunteering efforts in this space for late 2021.
 
 ### 🤏 Minimalism
 Due to my interests in digital privacy and ecology, I practice minimalism in both digital and non-digital spaces.
