@@ -2,3 +2,4 @@ title: kennyqin.com
 description: A site about Kenny Qin
 theme: jekyll-theme-minimal
 include: ['.well-known']
+permalink: .well-known/matrix/client
