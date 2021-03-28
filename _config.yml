@@ -1,4 +1,4 @@
 title: kennyqin.com
 description: A site about Kenny Qin
 theme: jekyll-theme-minimal
-exclude: ['.well-known/']
+exclude: ['.well-known/matrix/client']
