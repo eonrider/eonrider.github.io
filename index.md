@@ -13,7 +13,7 @@ I am an advocate of privacy and security. I have considered being more involved 
 I believe in the value of interoperability and standards have a big role in that. I use the term very *loosely*. Some standards I care about greatly include grammar in spoken and written languages and coding standards.
 
 ### 🌏 Ecology
-I'm not an expert but I've become increasingly observant of the impact I, as an individual and the human species as a whole, have on the world. I'm much more considerate of how the food on my plate gets there. I stick to drinking water so that I reduce the amount of single-use waste that comes from consuming alternatives. I know my individual actions are insignificant in the grand scheme of things. I have my eyes on some volunteering efforts in this space for late 2021.
+I'm not an expert but I've become increasingly observant of the impact I, as an individual, and the human species as a whole have on the world. I am currently exploring activities in this space.
 
 ### 🤏 Minimalism
 Due to my interests in digital privacy and ecology, I practice minimalism in both digital and physical spaces.
@@ -31,9 +31,9 @@ I am wary of the power *Big Tech* has in our lives and their place in mass surve
 
 I avoid using Google services directly. Some of the Google products I still use, I access through software that act as proxies. I use a de-Googled phone. I use [Fedora](https://getfedora.org/) on my daily driver and a debloated installation of Windows 10 for gaming. ([ProtonDB](https://www.protondb.com/) is an awesome project by Valve which will hopefully relinquish the dependency gamers have on Windows. Also, yes... [DRM](https://www.fckdrm.com/)...) I have deleted my Facebook account and no longer use WhatsApp. I keep in contact with all the important people in my life through [Signal](https://signal.org/) and [Threema](https://threema.ch/en/).
 
-I am concerned about Amazon's direct role in physical surveillance particularly through their Ring products. I am also wary of how dependent the internet is on Amazon Web Services; Google too.
+I am concerned about Amazon's direct role in physical surveillance particularly through their Ring products.
 
-I am interested in decentralised architectures as they seem to solve many of the issues critics have of Big Tech. There are several projects out there that act as decentralised alternatives to the centralised behemoths we have today which I'm fascinated by through their way of governance. Some examples include [Mastadon](https://joinmastodon.org/) (federated Twitter), [PeerTube](https://joinpeertube.org/) (federated YouTube) and [Matrix](https://matrix.org/) (federated messaging).
+I am interested in decentralised architectures as they seem to solve many of the issues critics have of Big Tech. There are several projects out there that act as decentralised alternatives to the centralised behemoths we have today which I'm fascinated by through their way of governance. Some examples include [Mastadon](https://joinmastodon.org/) and [Pleroma](https://pleroma.social/) (federated Twitter), [PeerTube](https://joinpeertube.org/) (federated YouTube), [Pixelfed](https://pixelfed.org/) (federated Instagram) and [Matrix](https://matrix.org/) (federated messaging).
 
 ### 🔐 Basic Digital Practices Everyone Should be Following
 The average person in developed countries [spends several hours per day exposing themselves in the digital world](https://blog.rescuetime.com/screen-time-stats-2018/) without having any understanding of the threats posed to them. Admittedly, I used to use the internet with little regard for my privacy and security. One e-mail address I no longer use is associated with over 10 compromised accounts according to [HIBP](https://haveibeenpwned.com/)!
