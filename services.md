@@ -10,4 +10,4 @@ Service | Description | Location
 
 ## Support
 
-These services all have ongoing service and maintenance costs. If you use the services and would like to support me, please consider visiting the donate page and dropping me a little. You can also consider supporting the projects directly by following the links in the **Service** column in the table above and seeing how they can be supported.
+These services all have ongoing service and maintenance costs. If you use the services and would like to support me, please consider donating by dropping me a little. You can also consider supporting the projects directly by following the links in the **Service** column in the table above and seeing how they can be supported.
