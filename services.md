@@ -6,7 +6,7 @@ I host a number of non-proprietary online services that are open for anyone to u
 
 Service | Description | Location
 ------- | ----------- | --------
-Jitsi Meet | Video conferencing | [meet.librelife.net](http://meet.librelife.net)
+[Jitsi Meet](https://jitsi.org/jitsi-meet/) | Video conferencing | [meet.librelife.net](https://meet.librelife.net)
 
 ## Support
 
