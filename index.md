@@ -5,7 +5,7 @@ I work as a software engineer professionally in Sydney, Australia. I have a [Lin
 
 I have experience in developing and deploying a range of technologies from both web and desktop applications in Windows environments to those in Linux.
 
-I am an advocate of privacy and security. I have considered being more involved in this space but I have not yet done so.
+I am an advocate of privacy and security. I am actively looking to see how I can be more involved in this space. As a starting point, I host some online services that are free to use by anyone.
 
 ## Interests
 
