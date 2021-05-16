@@ -1,0 +1,15 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+figure#threema {
+    margin: 0;
+    width: 200px;
+}
+
+figure#threema figcaption {
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}
