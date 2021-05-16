@@ -1,6 +1,6 @@
 # Thoughts
 
-This page is a collection of topics that I've decided to put some effort into fleshing out.
+This page is a collection of topics that I've decided to put some effort into fleshing out. The content on this page is subject to change depending on new experiences.
 
 ## 📈 *Big Tech*
 I am wary of the power *Big Tech* has in our lives and their place in mass surveillance and censorship. I used to use Google, Microsoft and Facebook products without a second thought just like the average consumer.
