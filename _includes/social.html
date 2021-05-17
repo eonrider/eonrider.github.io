@@ -1,0 +1,9 @@
+<div class="social">
+    <ul>
+    {% for item in site.data.social %}
+        <li class="{{ item.name | downcase }}">
+            <a href="{{ item.url }}" target="_blank">{% include {{ item.icon }} %}</a>
+        </li>
+    {% endfor %}
+    </ul>
+</div>

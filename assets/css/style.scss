@@ -13,3 +13,31 @@ figure#threema figcaption {
     font-weight: bold;
     text-align: center;
 }
+
+.social {
+    margin: 0;
+}
+
+.social a {
+    display: inline-block;
+}
+
+.social ul {
+    padding: 0;
+}
+
+.social li {
+    display: inline;
+}
+
+.social svg {
+    pointer-events: none;
+    width: 30px;
+    height: 30px;
+}
+
+{% for item in site.data.social %}
+.social .{{ item.name | downcase }} svg {
+    fill: {{ item.color }};
+}
+{% endfor %}
