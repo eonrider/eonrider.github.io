@@ -3,6 +3,7 @@
 I host a number of non-proprietary online services that are open for anyone to use. These services all exist on the `librelife.net` domain.
 
 ## Available Services
+
 Service | Description | Location
 ------- | ----------- | --------
 [Jitsi Meet](https://jitsi.org/jitsi-meet/) | Video conferencing | [meet.librelife.net](https://meet.librelife.net)
