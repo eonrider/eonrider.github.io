@@ -7,6 +7,7 @@ I host a number of non-proprietary online services that are open for anyone to u
 Service | Description | Location
 ------- | ----------- | --------
 [Jitsi Meet](https://jitsi.org/jitsi-meet/) | Video conferencing | [meet.librelife.net](https://meet.librelife.net)
+[PrivateBin](https://privatebin.info) | Pastebin | [bin.librelife.net](https://bin.librelife.net)
 
 ## Getting Help/Giving Feedback
 Feel free to reach out to me if you need help or have feedback for any of the services I provide. The best way to reach out to me is through Matrix by joining the [#services:kennyqin.com](https://matrix.to/#/#services:kennyqin.com) room.
