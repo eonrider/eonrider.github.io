@@ -1,7 +1,7 @@
 # Welcome to my website!
 
 ## Who I am
-I work as a software engineer professionally in Sydney, Australia. I have a [Linkedin profile](https://www.linkedin.com/in/kennyqin); not that I use it at all really.
+I work as a software engineer professionally in Sydney, Australia.
 
 I have experience in developing and deploying a range of technologies from both web and desktop applications in Windows environments to those in Linux.
 
