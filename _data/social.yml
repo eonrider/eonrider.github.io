@@ -10,7 +10,7 @@
   icon: linkedin.svg
   color: '#0A66C2'
   url: https://www.linkedin.com/in/kennyqin
-#- name: Threema
-#  icon: threema.svg
-#  color: '#3FE669'
-#  url: ''
+- name: Threema
+  icon: threema.svg
+  color: '#3FE669'
+  url: '#'
