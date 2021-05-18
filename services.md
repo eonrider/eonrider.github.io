@@ -8,6 +8,7 @@ Service | Description | Location
 ------- | ----------- | --------
 [Jitsi Meet](https://jitsi.org/jitsi-meet/) | Video conferencing | [meet.librelife.net](https://meet.librelife.net)
 [PrivateBin](https://privatebin.info) | Pastebin | [bin.librelife.net](https://bin.librelife.net)
+[Searx](https://searx.me/) | Search engine | [search.librelife.net](https://search.librelife.net)
 
 ## Getting Help/Giving Feedback
 Feel free to reach out to me if you need help or have feedback for any of the services I provide. The best way to reach out to me is through Matrix by joining the [#services:kennyqin.com](https://matrix.to/#/#services:kennyqin.com) room.
