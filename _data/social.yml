@@ -2,14 +2,14 @@
   icon: matrix.svg
   color: '#000000'
   url: https://matrix.to/#/@kenny:kennyqin.com
-- name: Pleroma
-  icon: pleroma.svg
-  color: '#FBA457'
-  url: https://social.kennyqin.com/@kenny
 - name: Threema
   icon: threema.svg
   color: '#3FE669'
   url: https://redirect.kennyqin.com/threema
+- name: Pleroma
+  icon: pleroma.svg
+  color: '#FBA457'
+  url: https://social.kennyqin.com/@kenny
 - name: Linkedin
   icon: linkedin.svg
   color: '#0A66C2'
