@@ -6,11 +6,11 @@
   icon: pleroma.svg
   color: '#FBA457'
   url: https://social.kennyqin.com/@kenny
+- name: Threema
+  icon: threema.svg
+  color: '#3FE669'
+  url: https://redirect.kennyqin.com/threema
 - name: Linkedin
   icon: linkedin.svg
   color: '#0A66C2'
   url: https://www.linkedin.com/in/kennyqin
-- name: Threema
-  icon: threema.svg
-  color: '#3FE669'
-  url: '#'
