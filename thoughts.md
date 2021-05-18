@@ -1,8 +1,8 @@
 # Thoughts
 
-This page is a collection of topics that I've decided to put some effort into fleshing out. The content on this page is subject to change depending on new experiences.
+This page is a collection of topics that I've decided to put some effort into fleshing out. The content on this page is subject to change depending on new experiences. I'm am generally open-minded and open to discussion so please feel free to reach out if you disagree!
 
-## 📈 *Big Tech*
+## 📈 *Big Tech* and Alternative Technologies
 I am wary of the power *Big Tech* has in our lives and their place in mass surveillance and censorship. I used to use Google, Microsoft and Facebook products without a second thought just like the average consumer.
 
 I avoid using Google services directly. Some of the Google products I still use, I access through software that act as proxies. I use a de-Googled phone. I use [Fedora](https://getfedora.org/) on my daily driver and a debloated installation of Windows 10 for gaming. ([ProtonDB](https://www.protondb.com/) is an awesome project by Valve which will hopefully relinquish the dependency gamers have on Windows. Also, yes... [DRM](https://www.fckdrm.com/)...) I have deleted my Facebook account and no longer use WhatsApp. I keep in contact with all the important people in my life through [Signal](https://signal.org/) and [Threema](https://threema.ch/en/).
