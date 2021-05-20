@@ -9,7 +9,7 @@
 - name: Pleroma
   icon: pleroma.svg
   color: '#FBA457'
-  url: https://social.kennyqin.com/@kenny
+  url: https://social.kennyqin.com/kenny
 - name: Linkedin
   icon: linkedin.svg
   color: '#0A66C2'
