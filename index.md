@@ -23,4 +23,4 @@ I only really run casually. I'm not bad though! At my best, I've run a long dist
 FOSS exists as the only software model that gives full transparency of behaviour. I believe that any self-claimed privacy-respecting software product should not be depended upon unless it is FOSS. (Ahem... Apple.)
 
 ## Contact
-My preferred methods of contact are either Matrix or Threema which are both linked in the sidebar. Session is another secure communication tool I use but you will need to reach out to me using some other method to request my Session ID. Signal will be available once the username feature is available.
+My preferred methods of contact are either Matrix or Threema which are both linked in the footer. Session is another secure communication tool I use but you will need to reach out to me using some other method to request my Session ID. Signal will be available once the username feature is available.
