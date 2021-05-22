@@ -11,7 +11,6 @@ Service | Description | Location
 [Searx](https://searx.me/) | Search engine | [search.librelife.net](https://search.librelife.net)
 
 ## Things to Note
-* Logging is disabled at the server level.
 * These services are intended to be used for the purpose of privacy and nothing more.
 * Services will mostly follow a default configuration. Due to this, if you are after any sort of privacy policy, you can generally follow what an official instance of any of these projects state in their respective policies. Alterations to the default configurations are generally aesthetic in nature.
 
