@@ -31,6 +31,7 @@ This page will probably be a mess compiling all the various skills I've picked u
 * Git
 
 ### Other
+* Encryption (asymmetric, symmetric, PGP)
 * Scrum
 * LaTeX
 
