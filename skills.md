@@ -19,6 +19,7 @@ This page will probably be a mess compiling all the various skills I've picked u
 | JavaScript | Industry exposure in web applications |
 
 ### Database
+
 | Skill | Familiarity |
 | -- | -- |
 | SQL Server | Strong industry exposure |
