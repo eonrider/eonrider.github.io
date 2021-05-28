@@ -46,5 +46,5 @@ This page will probably be a mess compiling all the various skills I've picked u
 * I have a good high-level understanding of online web advertising and marketing principles.
 
 ## Communication
-* A good level of both spoken and written English
+* An above-average level of both spoken and written English
 * A good amount of experience with public speaking
