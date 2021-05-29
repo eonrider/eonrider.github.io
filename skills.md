@@ -32,6 +32,7 @@ This page will probably be a mess compiling all the various skills I've picked u
 * Git
 
 ### Other
+* HTML, CSS
 * Scrum
 * LaTeX
 
@@ -44,7 +45,6 @@ This page will probably be a mess compiling all the various skills I've picked u
 ## Privacy and Security
 * Tor
 * GnuPG
-* VeraCrypt
 * A good high-level understanding of how mobile networks work
 * A good high-level understanding of online web advertising and marketing principles (including browser and device fingerprinting)
 
