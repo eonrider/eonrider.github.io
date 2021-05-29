@@ -32,7 +32,6 @@ This page will probably be a mess compiling all the various skills I've picked u
 * Git
 
 ### Other
-* Encryption (asymmetric, symmetric, PGP)
 * Scrum
 * LaTeX
 
@@ -40,11 +39,14 @@ This page will probably be a mess compiling all the various skills I've picked u
 * Nginx
 * Caddy
 * OpenVPN
-* Tor
+* fail2ban
 
-## Other Technical Skills
-* I have a good high-level understanding of how mobile networks work. I'm not sure how useful any of it is in a software engineering role but it's certainly useful understanding how it works from a privacy perspective.
-* I have a good high-level understanding of online web advertising and marketing principles.
+## Privacy and Security
+* Tor
+* GnuPG
+* VeraCrypt
+* A good high-level understanding of how mobile networks work
+* A good high-level understanding of online web advertising and marketing principles (including browser and device fingerprinting)
 
 ## Communication
 * An above-average level of both spoken and written English
