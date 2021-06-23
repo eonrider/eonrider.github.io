@@ -33,8 +33,8 @@ This page will probably be a mess compiling all the various skills I've picked u
 
 ### Other
 * HTML, CSS
+* LaTeX, Markdown
 * Scrum
-* LaTeX
 
 ## System Administration and Computer Networking
 * Nginx
