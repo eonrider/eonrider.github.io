@@ -12,7 +12,7 @@ This page will probably be a mess compiling all the various skills I've picked u
 | C++ | Exposure in educational projects |
 | C# | Strong industry exposure in both desktop and WCF technologies |
 | Java | Exposure in educational projects (socket programming and computer graphics) |
-| Ruby | Industry exposure with the Watir testing framework and hobbyist exposure through Jekyll in static webpage generation |
+| Ruby | Industry exposure through the Watir testing framework and hobbyist exposure through Jekyll in static webpage generation |
 | Perl | Exposure in educational projects |
 | Python | Similar to Perl |
 | Haskell | Exposure in educational projects |
@@ -34,13 +34,18 @@ This page will probably be a mess compiling all the various skills I've picked u
 ### Other
 * HTML, CSS
 * LaTeX, Markdown
+* Vim, Nano
 * Scrum
 
 ## System Administration and Computer Networking
-* Nginx
-* Caddy
+* Nginx, Caddy
+* Docker
 * OpenVPN
 * fail2ban
+
+## Cloud Computing
+* Amazon S3
+* Snowflake (experimentated as part of an evaluation process)
 
 ## Privacy and Security
 * Tor
