@@ -35,6 +35,7 @@ This page will probably be a mess compiling all the various skills I've picked u
 * HTML, CSS
 * LaTeX, Markdown
 * Vim, Nano
+* Confluence, Jira, Jenkins, TeamCity
 * Scrum
 
 ## System Administration and Computer Networking
