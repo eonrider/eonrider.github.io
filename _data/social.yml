@@ -14,3 +14,7 @@
   icon: linkedin.svg
   color: '#0A66C2'
   url: https://www.linkedin.com/in/kennyqin
+- name: GitLab
+  icon: gitlab.svg
+  color: '#FCA121'
+  url: https://gitlab.com/kennyqin
