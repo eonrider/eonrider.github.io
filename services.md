@@ -8,7 +8,6 @@ Service | Description | Location
 ------- | ----------- | --------
 [Jitsi Meet](https://jitsi.org/jitsi-meet/) | Video conferencing | [meet.librelife.net](https://meet.librelife.net)
 [PrivateBin](https://privatebin.info) | Pastebin | [bin.librelife.net](https://bin.librelife.net)
-[Searx](https://searx.me/) | Search engine | [search.librelife.net](https://search.librelife.net)
 
 ## Things to Note
 * These services are intended to be used for the purpose of privacy and nothing more.
