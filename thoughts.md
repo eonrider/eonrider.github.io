@@ -20,7 +20,7 @@ Before reading further, listen to [@Snowden](https://nitter.net/Snowden/status/1
 absolutely everyone should consider, because they're simple, cost little
  or nothing, and protect you while making your phone faster.
  
-PrivacyTools.io has an easy-to-follow guide on [browser configuration](https://privacytools.io/browsers/) and recommendations for [password managers](https://privacytools.io/software/passwords/). I recommend [Bitwarden](https://bitwarden.com/) to all my friends.
+PrivacyGuides.org has an easy-to-follow guide on [browser configuration](https://privacyguides.org/browsers/) and recommendations for [password managers](https://privacyguides.org/software/passwords/). I recommend [Bitwarden](https://bitwarden.com/) to all my friends.
 
 Additional:
 * Associate your most important accounts with a secondary mobile number that is not used for any other reason. Keep it to yourself and never give it out to others. [SIM swapping attacks](https://en.wikipedia.org/wiki/SIM_swap_scam) occur because every single service in the modern day asks for a mobile number despite not really needing one. This data eventually becomes part of a data breach and becomes part of a digital profile on you in a database somewhere which may be accessed and used by a malicious actor to target you.
