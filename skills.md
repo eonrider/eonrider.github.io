@@ -28,8 +28,8 @@ This page will probably be a mess compiling all the various skills I've picked u
 | MySQL/MariaDB | Exposure as a user for several self-hosted applications |
 
 ### Version Control
-* SVN
 * Git
+* SVN
 
 ### Other
 * HTML, CSS
@@ -40,7 +40,7 @@ This page will probably be a mess compiling all the various skills I've picked u
 
 ## System Administration and Computer Networking
 * Nginx, Caddy
-* Docker
+* Docker, Kubernetes, Istio
 * OpenVPN
 * fail2ban
 
